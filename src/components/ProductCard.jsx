@@ -23,5 +23,5 @@ function ProductCard({ product, onAddToCart }) {
   );
 }
 
-export_default ProductCard; // Note: standard export below
+export_default; ProductCard; // Note: standard export below
 export default ProductCard;
